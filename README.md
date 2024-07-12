@@ -15,7 +15,7 @@ I am.. _to be added later_
 - .. _to be added later_
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=r, python, mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,python,mysql)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
