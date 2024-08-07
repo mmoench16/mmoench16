@@ -10,7 +10,7 @@ Data analyst by day, programming enthusiast by night. I am interested in program
 - 📖 or reading a good book.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=r,python,mysql,java,php,html,css,js,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,python,mysql,java,php,html,css,js,md)]
 
 ## 🌱 Currently Exploring
 
@@ -28,7 +28,7 @@ Data analyst by day, programming enthusiast by night. I am interested in program
 
 ## 📬 Get in Touch
 
-- Connect with me on ![LinkedIn](https://www.linkedin.com/in/martin-moench-04472286/) or [Mastodon](https://mastodon.social/explore)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/martin-moench-04472286/) or [Mastodon](https://mastodon.social/explore)
 
 Thanks for stopping by! Let's connect _to be added later_
 
