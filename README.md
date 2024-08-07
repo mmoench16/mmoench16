@@ -12,7 +12,7 @@ Data analyst by day, programming enthusiast by night. I am interested in program
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=r,python,mysql,java,php,html,css,js,md)](https://github.com/mmoench16)
 
-| Column | Column | Column | Column |
+|  | Column | Column | Column |
 | ------ | ------ | ------ | ------ |
 | **Languages**  | [![My Skills](https://skillicons.dev/icons?i=r,python,mysql)](https://github.com/mmoench16)    | Item   | Item   |
 | **Tools**   | Item   | Item   | Item   |
