@@ -5,7 +5,7 @@ Data analyst by day, programming enthusiast by night. I am interested in program
 ## 🧍 About Me
 
 - 👨‍💻 I'm currently working as a Data Engineer in the bike industry, but I..
-- 👨‍🔬 started off in the lab and have experience working in the biotechnology, public health and pharma industry in various roles.. 
+- 👨‍🔬 started off in the lab and have experience working in the biotechnology, public health and pharma industry in various roles. 
 - 🚴‍♂️ Outside of work, I love spending time on my bike..
 - 📖 or reading a good book.
 
@@ -27,9 +27,9 @@ Data analyst by day, programming enthusiast by night. I am interested in program
 
 ## 📬 Get in Touch
 
-- Connect with me on ![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)(https://www.linkedin.com/in/martin-moench-04472286/) or [Mastodon](https://mastodon.social/explore)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/martin-moench-04472286/) or [Mastodon](https://mastodon.social/@JohnnyZeeGerman)
 
-Thanks for stopping by! Let's connect _to be added later_
+Thanks for stopping by!
 
 ![mmoench16's Stats](https://github-readme-stats.vercel.app/api?username=mmoench16&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
