@@ -2,7 +2,7 @@
 
 Data analyst by day, programming enthusiast by night. I am interested in programming, data science, biology, cycling & the outdoors. I started off my career in a lab-based role in biotech, however, my continued interest and passion for data analytics and programming allowed me to pursue a career in Tech. I am currently plying my trade at Specialized, where I develop business metrics dashboards, carry out data analyses and provide teams in the Operations space with data & insights.  
 
-##🧍 About Me
+## 🧍 About Me
 
 - 🔭 I'm currently _to be added later_
 - 📝 I write in-depth _to be added later_
