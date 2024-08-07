@@ -27,7 +27,7 @@ Data analyst by day, programming enthusiast by night. I am interested in program
 
 ## 📬 Get in Touch
 
-- Connect with me on [![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/martin-moench-04472286/) or [Mastodon](https://mastodon.social/explore)
+- Connect with me on ![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)(https://www.linkedin.com/in/martin-moench-04472286/) or [Mastodon](https://mastodon.social/explore)
 
 Thanks for stopping by! Let's connect _to be added later_
 
