@@ -10,7 +10,7 @@ Data analyst by day, programming enthusiast by night. I am interested in program
 - 📖 or reading a good book.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=r,python,mysql,java,php,html,css,js,md)]
+[![My Skills](https://skillicons.dev/icons?i=r,python,mysql,java,php,html,css,js,md)]()
 
 ## 🌱 Currently Exploring
 
