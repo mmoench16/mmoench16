@@ -1,18 +1,13 @@
 # Hi, I'm Martin! 👋
 
-I am.. _to be added later_
+Data analyst by day, programming enthusiast by night. I am interested in programming, data science, biology, cycling & the outdoors. I started off my career in a lab-based role in biotech, however, my continued interest and passion for data analytics and programming allowed me to pursue a career in Tech. I am currently plying my trade at Specialized, where I develop business metrics dashboards, carry out data analyses and provide teams in the Operations space with data & insights.
 
-![mmoench16's Stats](https://github-readme-stats.vercel.app/api?username=mmoench16&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-## 🚀 About Me
+##🧍 About Me
 
 - 🔭 I'm currently _to be added later_
 - 📝 I write in-depth _to be added later_
 - 🌐 Proud member of the _to be added later_
 - ✍️ Content Writer _to be added later_
-
-## My Articles
-- .. _to be added later_
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=r,python,mysql)](https://skillicons.dev)
@@ -37,6 +32,8 @@ I am.. _to be added later_
 - Read more of my _to be added later_
 
 Thanks for stopping by! Let's connect _to be added later_
+
+![mmoench16's Stats](https://github-readme-stats.vercel.app/api?username=mmoench16&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <!--
 **mmoench16/mmoench16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
