@@ -9,7 +9,7 @@ Data analyst by day, programming enthusiast by night. I am interested in program
 - 🚴‍♂️ Outside of work, I love spending time on my bike..
 - 📖 or reading a good book.
 
-## Tech Stack
+## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=r,python,mysql,java,php,html,css,js,md)](https://github.com/mmoench16)
 
 |  | Column | Column | Column |
