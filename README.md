@@ -10,14 +10,13 @@ Data analyst by day, programming enthusiast by night. I am interested in program
 - 📖 or reading a good book.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=r,python,mysql,java,php,html,css,js,md)]()
+[![My Skills](https://skillicons.dev/icons?i=r,python,mysql,java,php,html,css,js,md)](https://github.com/mmoench16)
 
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
   - Exploring the _to be added later_
   - Navigating through _to be added later_
-  - Styling with _to be added later_
   - Building _to be added later_
   - Diving into _to be added later_
 
@@ -28,7 +27,7 @@ Data analyst by day, programming enthusiast by night. I am interested in program
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/martin-moench-04472286/) or [Mastodon](https://mastodon.social/explore)
+- Connect with me on [![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/martin-moench-04472286/) or [Mastodon](https://mastodon.social/explore)
 
 Thanks for stopping by! Let's connect _to be added later_
 
