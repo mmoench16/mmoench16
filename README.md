@@ -4,13 +4,12 @@ Data analyst by day, programming enthusiast by night. I am interested in program
 
 ## 🧍 About Me
 
-- 🔭 I'm currently _to be added later_
-- 📝 I write in-depth _to be added later_
-- 🌐 Proud member of the _to be added later_
-- ✍️ Content Writer _to be added later_
+- 👨‍💻 I'm currently working as a Data Engineer in the bike industry, but I..
+- 👨‍🔬 started off in the lab and have experience working in the biotechnology, public health and pharma industry in various roles.. 
+- 🚴‍♂️ Outside of work, I love spending time on my bike..
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=r,python,mysql,java,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,python,mysql,java,php,html,css,js,md)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
