@@ -14,8 +14,8 @@ Data analyst by day, programming enthusiast by night. I am interested in program
 
 | Column | Column | Column | Column |
 | ------ | ------ | ------ | ------ |
-| [![My Skills](https://skillicons.dev/icons?i=r,python,mysql,java,php,html,css,js,md)](https://github.com/mmoench16)   | Item   | Item   | Item   |
-| Item   | Item   | Item   | Item   |
+| **Languages**  | [![My Skills](https://skillicons.dev/icons?i=r,python,mysql)](https://github.com/mmoench16)    | Item   | Item   |
+| **Tools**   | Item   | Item   | Item   |
 
 ## 🌱 Currently Exploring
 
