@@ -1,6 +1,6 @@
 # Hi, I'm Martin! 👋
 
-Data analyst by day, programming enthusiast by night. I am interested in programming, data science, biology, cycling & the outdoors. I started off my career in a lab-based role in biotech, however, my continued interest and passion for data analytics and programming allowed me to pursue a career in Tech. I am currently plying my trade at Specialized, where I develop business metrics dashboards, carry out data analyses and provide teams in the Operations space with data & insights.  
+Data Engineer by day, aspiring Software Engineer by night. I am interested in programming, data science, biology, cycling & the outdoors. I started off my career in a lab-based role in biotech, however, my continued interest and passion for data analytics and programming allowed me to pursue a career in Tech. I am currently plying my trade at Specialized, where I help manage and process data in order to enable analysts to track business performance and derive insights.  
 
 ## 🧍 About Me
 
@@ -12,9 +12,10 @@ Data analyst by day, programming enthusiast by night. I am interested in program
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=r,python,mysql,java,php,html,css,js,md)](https://github.com/mmoench16)
 
-|  | Column | Column | Column |
+|  | Use Regularly | Use Infrequently (or used in the past) | Tinkering With |
 | ------ | ------ | ------ | ------ |
 | **Languages**  | [![My Skills](https://skillicons.dev/icons?i=r,python,mysql)](https://github.com/mmoench16)    | Item   | Item   |
+| **Platforms**   | Item   | Item   | Item   |
 | **Tools**   | Item   | Item   | Item   |
 
 ## 🌱 Currently Exploring
@@ -32,7 +33,7 @@ Data analyst by day, programming enthusiast by night. I am interested in program
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/martin-moench-04472286/) or [Mastodon](https://mastodon.social/@JohnnyZeeGerman)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/martin-moench-04472286/), [Mastodon](https://mastodon.social/@JohnnyZeeGerman) or [Lemmy](https://lemmy.world/u/JohnnyZeeGerman)
 
 Thanks for stopping by!
 
