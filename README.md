@@ -15,7 +15,8 @@ Data Engineer by day, aspiring Software Engineer by night. I am interested in pr
 |  | I regularly use.. | I occasionally use (or used in the past).. | Tinkering With.. |
 | ------ | ------ | ------ | ------ |
 | **Languages**  | [![My Skills](https://skillicons.dev/icons?i=r,python,mysql&perline=3)](https://github.com/mmoench16)    | [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java&perline=3)](https://github.com/mmoench16) | [![My Skills](https://skillicons.dev/icons?i=processing&perline=3)](https://github.com/mmoench16) |
-| **Platforms**   | [![snowflake](https://github.com/user-attachments/assets/c8297df4-668a-42fb-9c9e-9c67954d2976)] | [![My Skills](https://skillicons.dev/icons?i=aws&perline=3)](https://github.com/mmoench16) | [![My Skills](https://skillicons.dev/icons?i=azure&perline=3)](https://github.com/mmoench16) |
+| **Platforms**   | <span style="color:#29B5E8">![snowflake](https://github.com/user-attachments/assets/4d700463-1624-484f-8c66-82f777d2e2b4)
+</span> | [![My Skills](https://skillicons.dev/icons?i=aws&perline=3)](https://github.com/mmoench16) | [![My Skills](https://skillicons.dev/icons?i=azure&perline=3)](https://github.com/mmoench16) |
 | **Other Tools**   | [![My Skills](https://skillicons.dev/icons?i=vscode,jira&perline=3)](https://github.com/mmoench16)   | [![My Skills](https://skillicons.dev/icons?i=r,python,mysql&perline=3)](https://github.com/mmoench16) | [![My Skills](https://skillicons.dev/icons?i=r,python,mysql&perline=3)](https://github.com/mmoench16) |
 
 ## 🌱 Currently Exploring
