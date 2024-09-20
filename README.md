@@ -3,6 +3,7 @@
     margin: 5px;  /* Adjust the padding as needed */
   }
 </style>
+
 # Hi, I'm Martin! 👋
 
 Data Engineer by day, aspiring Software Engineer by night. I am interested in programming, data science, biology, cycling & the outdoors. I started off my career in a lab-based role in biotech, however, my continued interest and passion for data analytics and programming allowed me to pursue a career in Tech. I am currently plying my trade at Specialized, where I help manage and process data in order to enable analysts to track business performance and derive insights.  
