@@ -12,7 +12,7 @@ Data Engineer by day, aspiring Software Engineer by night. I am interested in pr
 ## 🧰 My Toolbox
 [![My Skills](https://skillicons.dev/icons?i=r,python,mysql,java,php,html,css,js,md)](https://github.com/mmoench16)
 
-|  | I regularly use.. | I occasionally use (or used in the past).. | Tinkering With.. |
+|  | I regularly use.. | I occasionally use<br>(or used in the past).. | Tinkering With.. |
 | ------ | ------ | ------ | ------ |
 | **Languages** | [![My Skills](https://skillicons.dev/icons?i=r,python,mysql&perline=3)](https://github.com/mmoench16)    | [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java&perline=3)](https://github.com/mmoench16) | [![My Skills](https://skillicons.dev/icons?i=processing&perline=3)](https://github.com/mmoench16) |
 | **Platforms** | ![snowflake](https://github.com/user-attachments/assets/ffe3353d-e4bb-4634-ae95-af089a04a25b) | [![My Skills](https://skillicons.dev/icons?i=aws&perline=3)](https://github.com/mmoench16) | [![My Skills](https://skillicons.dev/icons?i=azure&perline=3)](https://github.com/mmoench16) |
