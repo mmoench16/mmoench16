@@ -16,7 +16,7 @@ Data Engineer by day, aspiring Software Engineer by night. I am interested in pr
 | ------ | ------ | ------ | ------ |
 | **Languages** | [![My Skills](https://skillicons.dev/icons?i=r,python,mysql&perline=3)](https://github.com/mmoench16)    | [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java&perline=3)](https://github.com/mmoench16) | [![My Skills](https://skillicons.dev/icons?i=processing&perline=3)](https://github.com/mmoench16) |
 | **Platforms** | ![snowflake](https://github.com/user-attachments/assets/ffe3353d-e4bb-4634-ae95-af089a04a25b) | [![My Skills](https://skillicons.dev/icons?i=aws&perline=3)](https://github.com/mmoench16) | [![My Skills](https://skillicons.dev/icons?i=azure&perline=3)](https://github.com/mmoench16) |
-| **Other Tools** | [![My Skills](https://skillicons.dev/icons?i=vscode,jira&perline=3)](https://github.com/mmoench16)   | [![My Skills](https://skillicons.dev/icons?i=r,python,mysql&perline=3)](https://github.com/mmoench16) | [![My Skills](https://skillicons.dev/icons?i=r,python,mysql&perline=3)](https://github.com/mmoench16) |
+| **Other Tools** | [![My Skills](https://skillicons.dev/icons?i=vscode,jira&perline=3)](https://github.com/mmoench16) ![jira](https://github.com/user-attachments/assets/2c4040e9-fac7-4e2b-ab69-76909411354a) | [![My Skills](https://skillicons.dev/icons?i=r,python,mysql&perline=3)](https://github.com/mmoench16) | [![My Skills](https://skillicons.dev/icons?i=r,python,mysql&perline=3)](https://github.com/mmoench16) |
 
 ## 🌱 Currently Exploring
 
@@ -29,6 +29,7 @@ Data Engineer by day, aspiring Software Engineer by night. I am interested in pr
  ## 🏆 Achievements
 
 - 🌟 Completed _to be added later_
+
 
 
 ## 📬 Get in Touch
