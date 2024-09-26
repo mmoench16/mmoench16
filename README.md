@@ -20,7 +20,7 @@ Data Engineer by day, aspiring Software Engineer by night. I am interested in pr
 
 ## 🌱 Currently Exploring
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/jira/hotpink" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/jira/hotpink?viewbox=auto" />
 
 - 🚀 Learning Full Stack Web Development
   - Exploring the _to be added later_
