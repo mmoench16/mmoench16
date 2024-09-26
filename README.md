@@ -20,6 +20,8 @@ Data Engineer by day, aspiring Software Engineer by night. I am interested in pr
 
 ## 🌱 Currently Exploring
 
+<img height="20" src="https://cdn.simpleicons.org/github?viewbox=auto" />
+
 - 🚀 Learning Full Stack Web Development
   - Exploring the _to be added later_
   - Navigating through _to be added later_
