@@ -32,6 +32,31 @@ Data Engineer by day, aspiring Software Engineer by night. I am interested in pr
 
 - 🌟 Completed _to be added later_
 
+<table>
+        <tr>
+            <th>Column 0</th>
+            <th>Column 1</th>
+            <th>Column 2</th>
+            <th>Column 3</th>
+        </tr>
+        <!-- Add more rows as needed -->
+        <tr>
+            <td style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+                <img alt="Jira logo" title="Jira" height="32" width="32" style="width: 33.33%;"
+                src="https://cdn.simpleicons.org/jira/0052CC?viewbox=auto" />
+                <img alt="Jira logo" title="Jira" height="32" width="32" style="width: 33.33%;"
+                src="https://cdn.simpleicons.org/jira/0052CC?viewbox=auto" />
+                <img alt="Jira logo" title="Jira" height="32" width="32" style="width: 33.33%;"
+                src="https://cdn.simpleicons.org/jira/0052CC?viewbox=auto" />
+                <img alt="Jira logo" title="Jira" height="32" width="32" style="width: 33.33%;"
+                src="https://cdn.simpleicons.org/jira/0052CC?viewbox=auto" />
+            </td>
+            <td>Alfreds Futterkiste</td>
+            <td>Maria Anders</td>
+            <td>Germany</td>
+        </tr>
+    </table>
+
 
 
 ## 📬 Get in Touch
