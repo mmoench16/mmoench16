@@ -1,6 +1,6 @@
 # Hi, I'm Martin! 👋
 
-Data Engineer by day, aspiring Software Engineer by night. I am interested in programming, data science, biology, cycling & the outdoors. I started off my career in a lab-based role in biotech, however, my continued interest and passion for data analytics and programming allowed me to pursue a career in Tech. I am currently plying my trade at Specialized, where I help manage and process data in order to enable analysts to track business performance and derive insights.  
+Data Engineer by day, aspiring Software Engineer by night. I am interested in programming, data science, biology, cycling & the outdoors. I started off my career in a lab-based role in biotech, however, my continued interest and passion for data analytics and programming allowed me to pursue a career in Tech. I am currently plying my trade at Specialized, where I help build and maintain the data infrastructure that facilitates insightful reporting and data analysis. I do so by creating and maintaining data pipelines, expanding and looking after the data warehouse, as well as helping the business translate analytics needs into concrete engineering requirements. 
 
 ## 🧍 About Me
 
