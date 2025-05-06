@@ -50,7 +50,7 @@ Data Engineer by day, aspiring software engineer by night. I am interested in pr
             <td><b>Platforms</b></td>
             <td>
                 <div style="text-align:center;">
-                    <img height="32" width="32" alt="Snowflake logo" title="Snowflake" src="https://cdn.simpleicons.org/snowflake/29B5E8?viewbox=auto" /> 
+                    <img height="32" width="32" alt="Snowflake logo" title="Snowflake" src="https://cdn.simpleicons.org/snowflake?viewbox=auto" /> 
                     <img height="32" width="32" alt="Matillion logo" title="Matillion" src="https://cdn.simpleicons.org/matillion/19E57F?viewbox=auto" />
                     <img height="32" width="32" alt="GitHub logo" title="GitHub" src="https://cdn.simpleicons.org/github/181717?viewbox=auto" />
                 </div>
