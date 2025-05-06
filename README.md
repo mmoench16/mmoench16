@@ -83,7 +83,7 @@ Data Engineer by day, aspiring software engineer by night. I am interested in pr
             </td>
             <td>
                 <div style="text-align:center;">
-                    <img height="32" width="32" alt="Markdown logo" title="Markdown" src="https://cdn.simpleicons.org/markdown?viewbox=auto" /> 
+                    <img height="32" width="32" alt="Markdown logo" title="Markdown" src="https://cdn.simpleicons.org/Markdown?viewbox=auto" /> 
                     <img height="32" width="32" alt="Latex logo" title="Latex" src="https://cdn.simpleicons.org/latex?viewbox=auto" />
                 </div>
             </td>
