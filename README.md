@@ -58,7 +58,7 @@ Data Engineer by day, aspiring software engineer by night. I am interested in pr
             <td>
                 <div style="text-align:center;">
                     <img height="32" width="32" alt="AWS logo" title="AWS" src="https://cdn.simpleicons.org/amazonwebservices/232F3E?viewbox=auto" /> 
-                    <img height="32" width="32" alt="GCP logo" title="Google Cloud" src="https://cdn.simpleicons.org/googlecloud/4285F4?viewbox=auto" />
+                    <img height="32" width="32" alt="GCP logo" title="Google Cloud" src="https://cdn.simpleicons.org/googlecloud?viewbox=auto" />
                 </div>
             </td>
             <td>
@@ -77,14 +77,14 @@ Data Engineer by day, aspiring software engineer by night. I am interested in pr
                 </div>
                 <div style="text-align:center;">
                     <img height="32" width="32" alt="Jira logo" title="Jira" src="https://cdn.simpleicons.org/jira/0052CC?viewbox=auto" />
-                    <img height="32" width="32" alt="Confluence logo" title="Confluence" src="https://cdn.simpleicons.org/confluence/172B4D?viewbox=auto" /> 
-                    <img height="32" width="32" alt="Tableau logo" title="Tableau" src="https://cdn.simpleicons.org/tableau/E97627?viewbox=auto" /> 
+                    <img height="32" width="32" alt="Confluence logo" title="Confluence" src="https://cdn.simpleicons.org/confluence?viewbox=auto" /> 
+                    <img height="32" width="32" alt="Tableau logo" title="Tableau" src="https://cdn.simpleicons.org/tableau?viewbox=auto" /> 
                 </div>
             </td>
             <td>
                 <div style="text-align:center;">
-                    <img height="32" width="32" alt="Markdown logo" title="Markdown" src="https://cdn.simpleicons.org/markdown/000000?viewbox=auto" /> 
-                    <img height="32" width="32" alt="Latex logo" title="Latex" src="https://cdn.simpleicons.org/latex/008080?viewbox=auto" />
+                    <img height="32" width="32" alt="Markdown logo" title="Markdown" src="https://cdn.simpleicons.org/markdown?viewbox=auto" /> 
+                    <img height="32" width="32" alt="Latex logo" title="Latex" src="https://cdn.simpleicons.org/latex?viewbox=auto" />
                 </div>
             </td>
             <td valign="middle">
