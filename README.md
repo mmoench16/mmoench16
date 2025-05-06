@@ -31,7 +31,7 @@ Data Engineer by day, aspiring software engineer by night. I am interested in pr
                 <div style="text-align:center;">
                     <img height="32" width="32" alt="JS logo" title="JavaScript" src="https://cdn.simpleicons.org/javascript/F7DF1E?viewbox=auto" /> 
                     <img height="32" width="32" alt="HTML logo" title="HTML" src="https://cdn.simpleicons.org/html5/E34F26?viewbox=auto" /> 
-                    <img height="32" width="32" alt="CSS logo" title="CSS" src="https://cdn.simpleicons.org/css3/1572B6?viewbox=auto" />
+                    <img height="32" width="32" alt="CSS logo" title="CSS" src="https://cdn.simpleicons.org/css3?viewbox=auto" />
                 </div>
                 <div style="text-align:center;">
                     <img height="32" width="32" alt="PHP logo" title="PHP" src="https://cdn.simpleicons.org/php/777BB4?viewbox=auto" /> 
