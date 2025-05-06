@@ -24,7 +24,7 @@ Data Engineer by day, aspiring software engineer by night. I am interested in pr
                 <div style="text-align:center;">
                     <img height="32" width="32" alt="Python logo" title="Python" src="https://cdn.simpleicons.org/python/3776AB?viewbox=auto" /> 
                     <img height="32" width="32" alt="SQL logo" title="SQL" src="https://github.com/user-attachments/assets/da7c1dd0-b11d-45f3-8523-7214e682fcdf" />
-                    <img height="32" width="32" alt="R logo" title="R" src="https://cdn.simpleicons.org/r/276DC3?viewbox=auto" />
+                    <img height="32" width="32" alt="R logo" title="R" src="https://cdn.simpleicons.org/r?viewbox=auto" />
                 </div>
             </td>
             <td>
