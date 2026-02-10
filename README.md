@@ -78,7 +78,7 @@ Data Engineer by day, aspiring software engineer by night. I am interested in pr
                 <div style="text-align:center;">
                     <img height="32" width="32" alt="Jira logo" title="Jira" src="https://cdn.simpleicons.org/jira/0052CC?viewbox=auto" />
                     <img height="32" width="32" alt="Confluence logo" title="Confluence" src="https://cdn.simpleicons.org/confluence?viewbox=auto" /> 
-                    <img height="32" width="32" alt="Tableau logo" title="Tableau" src="https://cdn.simpleicons.org/tableau?viewbox=auto" /> 
+                    <img height="32" width="32" alt="Tableau logo" title="Tableau" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" /> 
                 </div>
             </td>
             <td>
