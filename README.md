@@ -57,7 +57,7 @@ Data Engineer by day, aspiring software engineer by night. I am interested in pr
             </td>
             <td>
                 <div style="text-align:center;">
-                    <img height="32" width="32" alt="AWS logo" title="AWS" src="https://cdn.simpleicons.org/amazonwebservices/232F3E?viewbox=auto" /> 
+                    <img height="32" width="32" alt="AWS logo" title="AWS" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" /> 
                     <img height="32" width="32" alt="GCP logo" title="Google Cloud" src="https://cdn.simpleicons.org/googlecloud?viewbox=auto" />
                 </div>
             </td>
